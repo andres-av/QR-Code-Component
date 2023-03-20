@@ -25,6 +25,7 @@ This is a beginner level challenge that includes only the usage of html and css.
 
 ### Links
 
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-card-created-with-html-and-css-PeTCBvehDX](https://www.frontendmentor.io/solutions/qr-code-card-created-with-html-and-css-PeTCBvehDX)
 - Live Site URL: [https://andres-av.github.io/QR-Code-Component/](https://andres-av.github.io/QR-Code-Component/)
 
 ## My process
